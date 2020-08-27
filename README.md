@@ -7,13 +7,13 @@ Vamos a usar JSON Server para crear una Fake API: una API ““falsa”” cons
 Instalación de JSON Server:
 
     sudo npm install json-server -g
-```
+
 
 Recuerda que en Windows debes correr tu terminal de comandos en modo administrador.
 
 Ejecutar el servidor de JSON Server:
 
-```bash
+bash
 json-server archivoParaTuAPI.json
 Start a repository in GIT:
 
