@@ -1,4 +1,4 @@
-# Fake_API__React_Babel_Librery  this is the fake API 
+# Fake_API__React_Babel_Librery  => fake API :https://github.com/typicode/json-server
 Environment setup and configuration
 this is at the eand : but i put it here to have it in mind  
 en Español: el archivo initialState.jason esta listo con los datos que vamos traer or do the fetch in the initialstate!!
