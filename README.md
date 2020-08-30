@@ -1,3 +1,5 @@
+![GitHub Logo](/src/assets/static/Screen.png)
+
 # Fake_API__React_Babel_Librery  => fake API :https://github.com/typicode/json-server
 ## Environment setup and configuration => follow the steps
 
