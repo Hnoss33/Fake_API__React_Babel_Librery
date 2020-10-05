@@ -3,8 +3,8 @@
 # Fake_API__React_Babel_Librery  => fake API :https://github.com/typicode/json-server
 ## Environment setup and configuration => follow the steps
 
-# !WARNING:this is at the end AFTERWARS!: I did put it here, just in case...
-en Español: el archivo initialState.jason esta listo con los datos que vamos traer or do the fetch in the initialstate!!
+# !WARNING:This is at the end..!: but is here, just in case...
+en Español: el archivo initialState.jason esta listo con los datos que Vamos traer or do the fetch in the initialstate!!
 Vamos a usar JSON Server para crear una Fake API: una API ““falsa”” construida a partir de un archivo JSON que nos permite preparar nuestro código para consumir una API de verdad en el futuro.
 
 Instalación de JSON Server:
